@@ -43,6 +43,7 @@ Start the Bookshelf Apps
 ## Tech Stack
 
 **Client:** React, TailwindCSS
+
 **REST API:** JSON Server
 
 ## Related Project
